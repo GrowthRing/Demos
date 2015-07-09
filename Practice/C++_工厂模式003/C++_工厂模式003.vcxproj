@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{165DD543-6C0F-42E9-841F-A132933DD351}</ProjectGuid>
     <RootNamespace>C_工厂模式003</RootNamespace>
-    <ProjectName>C++_工厂模式003_简单工厂模式</ProjectName>
+    <ProjectName>C++_设计模式_工厂模式003_简单工厂模式</ProjectName>
     <SccProjectName>Svn</SccProjectName>
     <SccAuxPath>Svn</SccAuxPath>
     <SccLocalPath>Svn</SccLocalPath>
