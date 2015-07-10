@@ -22,6 +22,7 @@ int aroundCenter(char *a, int p)
 }
 
 
+
 // 最长回文子串
 void longestChidren(char *a, int *p, int *max)
 {
