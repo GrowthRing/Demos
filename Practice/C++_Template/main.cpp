@@ -20,4 +20,8 @@ int main()
 	cout << aa.getArraySize2() << endl;
 	system("pause");
 	return 0;
+
+
+
+
 }
